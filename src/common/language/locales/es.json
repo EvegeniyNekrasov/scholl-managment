@@ -1,0 +1,7 @@
+{
+  "page_not_found": {
+    "title": "Lo siento, la página que has solicitado no se puede encontrar.",
+    "description": "La URL puede estar mal escrita o la página que buscas ya no está disponible.",
+    "back": "Volver a la página de inicio"
+  }
+}
